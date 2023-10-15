@@ -6,7 +6,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/ammy_batra23?label=Follow)
 [![Linkedin: amanpreetbatra](https://img.shields.io/badge/Amanpreet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanpreetbatra/)](https://www.linkedin.com/in/amanpreetbatra/)
 ![GitHub followers](https://img.shields.io/github/followers/amanpreetbatra?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=amanpreetbatra.amanpreetbatra)
+
 
 
 [//]: # (👇 Hit in your console or terminal to connect with me.)
@@ -20,6 +20,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+###
 ```javascript
 const Amanpreet = {
     pronouns: "He" | "Him",
@@ -44,6 +45,7 @@ const Amanpreet = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=8)
 
 <a href="https://github.com/amanpreetbatra/github-readme-stats">
