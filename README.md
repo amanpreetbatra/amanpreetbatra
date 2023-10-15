@@ -46,15 +46,15 @@ const Amanpreet = {
 };
 ```
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
+<table style="border: none; width: 100%;">
+  <tr>
+    <td>
+       <img width="100%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=8" />
+    </td>
+    <td>
     <a href="https://github.com/amanpreetbatra/github-readme-stats">
-      <img width="100%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreetbatra&show_icons=true&hide_border=true&theme=cobalt&include_all_commits=true" />
-    </a>
-  </div>
-  <div style="flex: 1;">
-    <img width="100%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=8" />
-  </div>
-</div>
-
-
+        <img width="100%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreetbatra&show_icons=true&hide_border=true&theme=cobalt&include_all_commits=true" />
+      </a>
+    </td>
+  </tr>
+</table>
