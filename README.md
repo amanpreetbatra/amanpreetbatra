@@ -45,6 +45,6 @@ const Amanpreet = {
 ```
 
 <a href="https://github.com/amanpreetbatra/github-readme-stats">
-   <img width="60%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreet&show_icons=true&hide_border=true" />
+   <img width="60%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreetbatra&show_icons=true&hide_border=true&theme=cobalt" />
 </a>
 
