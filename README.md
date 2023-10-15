@@ -1,11 +1,11 @@
 <h2>ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ (Sat Sri Akal)🙏🏻, I'm Amanpreet Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200">
-<br>
 <p><em>Monitoring Intern at <a href="http://www.continent8.com">Continent8 Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ammy_batra23?label=Follow)
-[![Linkedin: amanpreetbatra](https://img.shields.io/badge/Amanpreet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanpreetbatra/)](https://www.linkedin.com/in/amanpreetbatra/)
+[![Linkedin: amanpreetbatra](https://img.shields.io/badge/Amanpreet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanpreetbatra/)](
+https://www.linkedin.com/in/amanpreetbatra/)
 ![GitHub followers](https://img.shields.io/github/followers/amanpreetbatra?label=Follow&style=social)
 
 
@@ -20,7 +20,7 @@
 [//]: # (```)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+<br></br>
 ```javascript
 const Amanpreet = {
     pronouns: "He" | "Him",
