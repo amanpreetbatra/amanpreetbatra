@@ -46,10 +46,10 @@ const Amanpreet = {
 };
 ```
 
-<table style="border: none; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td>
-       <img width="100%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=8" />
+       <img width="100%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=3&theme=cobalt" />
     </td>
     <td>
     <a href="https://github.com/amanpreetbatra/github-readme-stats">
