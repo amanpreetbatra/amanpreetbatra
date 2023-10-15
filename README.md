@@ -8,6 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/amanpreetbatra?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=amanpreetbatra.amanpreetbatra)
 
+
 [//]: # (👇 Hit in your console or terminal to connect with me.)
 
 [//]: # ()
@@ -43,8 +44,9 @@ const Amanpreet = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=8)
 
 <a href="https://github.com/amanpreetbatra/github-readme-stats">
-   <img width="60%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreetbatra&show_icons=true&hide_border=true&theme=cobalt" />
+   <img width="60%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreetbatra&show_icons=true&hide_border=true&theme=cobalt&include_all_commits=true" />
 </a>
 
