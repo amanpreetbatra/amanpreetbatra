@@ -45,16 +45,4 @@ const Amanpreet = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td>
-       <img width="100%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=3&theme=cobalt" />
-    </td>
-    <td>
-    <a href="https://github.com/amanpreetbatra/github-readme-stats">
-        <img width="100%" alt="Amanpreet's github stats" src="https://github-readme-stats.vercel.app/api?username=amanpreetbatra&show_icons=true&hide_border=true&theme=cobalt&include_all_commits=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreetbatra&langs_count=3&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
